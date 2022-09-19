@@ -1,4 +1,4 @@
-# ProfessoraElisaPC-Pong-P5Js-1C
+# ProfessoraElisaPC-Projetos-1C
 
 ## Turma: 1ºC
 
