@@ -1,6 +1,4 @@
-# ProfessoraElisaPC-Projetos-1C
-
-## Turma: 1ºC
+# Projetos-1C
 
 Professora Elisa
 
